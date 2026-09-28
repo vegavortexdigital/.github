@@ -1,21 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08090d"/><stop offset=".55" stop-color="#111522"/><stop offset="1" stop-color="#19101f"/></linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#334155" stroke-width="1" opacity=".28"/></pattern>
-</defs>
-<rect width="1200" height="380" rx="20" fill="url(#bg)"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/>
-<rect x="26" y="26" width="1148" height="328" rx="14" fill="none" stroke="#334155"/>
-<rect x="26" y="26" width="1148" height="5" rx="2.5" fill="url(#accent)"/>
-<circle cx="58" cy="58" r="6" fill="#64748b"/><circle cx="80" cy="58" r="6" fill="#64748b"/><circle cx="102" cy="58" r="6" fill="#64748b"/>
-<text x="52" y="112" fill="#94a3b8" font-family="monospace" font-size="17">$ launch --brand=VegaVortex</text>
-<text x="52" y="166" fill="#f8fafc" font-family="monospace" font-size="42" font-weight="700">VEGAVORTEX DIGITAL</text>
-<text x="52" y="202" fill="#cbd5e1" font-family="monospace" font-size="17">digital experiences · web · growth · technology</text>
-<text x="52" y="250" fill="#94a3b8" font-family="monospace" font-size="16">$ build</text>
-<text x="52" y="280" fill="#e2e8f0" font-family="monospace" font-size="17">strategy / design / development / visibility</text>
-<circle cx="58" cy="319" r="5" fill="#22c55e"/><text x="72" y="324" fill="#64748b" font-family="monospace" font-size="15">independent digital agency</text>
-<g transform="translate(820 94)"><rect width="280" height="205" rx="12" fill="#0b1120" stroke="#334155"/>
-<text x="22" y="34" fill="#94a3b8" font-family="monospace" font-size="13">VEGA_SYSTEM</text>
-<text x="22" y="70" fill="#e2e8f0" font-family="monospace" font-size="15">WEB       ●</text><text x="22" y="100" fill="#e2e8f0" font-family="monospace" font-size="15">DESIGN    ●</text>
-<text x="22" y="130" fill="#e2e8f0" font-family="monospace" font-size="15">SEO       ●</text><text x="22" y="160" fill="#e2e8f0" font-family="monospace" font-size="15">GROWTH    ●</text>
-<text x="22" y="188" fill="#64748b" font-family="monospace" font-size="12">build something worth finding</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f7f5"/><stop offset="1" stop-color="#e9eaec"/></linearGradient><radialGradient id="glow" cx=".78" cy=".32" r=".6"><stop offset="0" stop-color="#d9dce2" stop-opacity=".9"/><stop offset="1" stop-color="#d9dce2" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#glow)"/>
+<circle cx="1015" cy="95" r="58" fill="#fff" opacity=".65"/><circle cx="1080" cy="170" r="100" fill="#fff" opacity=".25"/>
+<text x="72" y="112" fill="#17181b" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">VEGAVORTEX DIGITAL</text>
+<text x="72" y="190" fill="#111214" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="600" letter-spacing="-1.5">Digital, thoughtfully built.</text>
+<text x="72" y="232" fill="#55585d" font-family="Arial,Helvetica,sans-serif" font-size="19">Web · Design · Growth · Technology</text>
+<rect x="72" y="285" width="54" height="3" rx="1.5" fill="#111214"/>
+<text x="72" y="328" fill="#6a6d72" font-family="Arial,Helvetica,sans-serif" font-size="15">Strategy, design and technology for modern digital experiences.</text>
+</svg>
