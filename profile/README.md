@@ -2,76 +2,49 @@
 
 <img src="./hero.svg" alt="VegaVortex Digital" width="100%">
 
-### Web Development · Design · SEO · Digital Growth · Technology
-
-We build modern digital experiences that bring together **design, development, visibility, and strategy**.
-
 </div>
 
----
+## VegaVortex Digital
 
-## `> about`
+We create digital products and experiences for businesses that value clarity, quality, and thoughtful execution.
 
-**VegaVortex Digital** is an independent digital agency focused on building and managing digital experiences for businesses, brands, and online projects.
-
-Our work sits between **creative and technical**. We combine modern web development with design, SEO, digital advertising, content, and the systems behind a strong online presence.
-
-From a focused business website to a custom digital platform, we build around the actual needs of the project.
+Our work brings together **strategy, design, technology, and digital growth** in one place.
 
 ---
 
-## `// what_we_do`
-
-| | Area |
-|---|---|
-| 🌐 | **Web Development** · Modern websites, custom platforms, CMS & full-stack projects |
-| 🎨 | **Design & Experience** · Interfaces, motion, responsive layouts & visual systems |
-| 🔎 | **SEO & Visibility** · Technical SEO, search visibility, analytics & optimization |
-| 📈 | **Digital Growth** · Google Ads, online campaigns & performance-focused marketing |
-| ⚙️ | **Systems & Automation** · APIs, integrations, workflows & digital tools |
-
----
-
-## `// what_we_build`
-
-- Business websites and long-term digital management
-- Custom CMS and full-stack web applications
-- Modern frontend experiences with animation and interaction
-- Social media and online presence systems
-- SEO and search visibility foundations
-- Digital advertising and analytics
-- Custom technical solutions built around specific business needs
-
----
-
-## `// technology`
+### Capabilities
 
 **Web**  
-`HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js`
+Websites, custom platforms, CMS solutions, and full-stack applications.
 
-**Platforms & Infrastructure**  
-`WordPress` `MySQL` `MongoDB` `APIs` `Cloudflare` `Azure` `Docker`
+**Design**  
+Clean interfaces, responsive experiences, interaction, and motion.
 
-**Growth & Analytics**  
-`Technical SEO` `Google Ads` `Analytics` `Search Console`
+**Growth**  
+Technical SEO, search visibility, digital advertising, analytics, and optimization.
 
-**Creative**  
-`Figma` `GSAP` `Motion`
+**Technology**  
+APIs, integrations, automation, and the infrastructure behind modern digital products.
 
 ---
 
-## `// our_approach`
+### Selected Work
 
-**Think first. Build properly. Keep improving.**
+Our projects span business websites, custom CMS platforms, full-stack applications, digital presence management, SEO, advertising, and tailored technical solutions.
 
-We care about what happens beyond launch: performance, structure, maintainability, discoverability, integrations, and the details that make a digital product useful over time.
+We work across both **long-term digital operations** and **focused project engagements**, adapting the scope to what each business actually needs.
 
-> **Technology should solve a problem, not create another one.**
+---
+
+### Technology
+
+JavaScript · React · Next.js · Node.js · HTML · CSS  
+WordPress · MySQL · MongoDB · Docker · Azure · Cloudflare  
+Technical SEO · Google Ads · Analytics · Search Console  
+Figma · GSAP
 
 ---
 
 <div align="center">
-
-### `BUILD • LAUNCH • LEARN • EVOLVE`
-
+**Thoughtful strategy. Clean design. Solid technology.**
 </div>
