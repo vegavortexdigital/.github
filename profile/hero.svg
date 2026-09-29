@@ -1,10 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f7f5"/><stop offset="1" stop-color="#e9eaec"/></linearGradient><radialGradient id="glow" cx=".78" cy=".32" r=".6"><stop offset="0" stop-color="#d9dce2" stop-opacity=".9"/><stop offset="1" stop-color="#d9dce2" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#glow)"/>
-<circle cx="1015" cy="95" r="58" fill="#fff" opacity=".65"/><circle cx="1080" cy="170" r="100" fill="#fff" opacity=".25"/>
-<text x="72" y="112" fill="#17181b" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">VEGAVORTEX DIGITAL</text>
-<text x="72" y="190" fill="#111214" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="600" letter-spacing="-1.5">Digital, thoughtfully built.</text>
-<text x="72" y="232" fill="#55585d" font-family="Arial,Helvetica,sans-serif" font-size="19">Web · Design · Growth · Technology</text>
-<rect x="72" y="285" width="54" height="3" rx="1.5" fill="#111214"/>
-<text x="72" y="328" fill="#6a6d72" font-family="Arial,Helvetica,sans-serif" font-size="15">Strategy, design and technology for modern digital experiences.</text>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050608"/>
+    <stop offset="0.55" stop-color="#0b0d12"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <radialGradient id="blueGlow" cx="78%" cy="42%" r="58%">
+    <stop offset="0" stop-color="#3157c7" stop-opacity=".34"/>
+    <stop offset=".45" stop-color="#172554" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glassA" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".16"/>
+    <stop offset=".42" stop-color="#8aa4ff" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity=".02"/>
+  </linearGradient>
+  <linearGradient id="edgeA" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".62"/>
+    <stop offset=".35" stop-color="#9db7ff" stop-opacity=".5"/>
+    <stop offset="1" stop-color="#5b7cff" stop-opacity=".08"/>
+  </linearGradient>
+  <linearGradient id="glassB" x1="1" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".11"/>
+    <stop offset=".5" stop-color="#6e8fff" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity=".015"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="24" fill="url(#blueGlow)"/>
+
+<ellipse cx="1050" cy="155" rx="180" ry="105" fill="#3157c7" opacity=".12" filter="url(#blur)"/>
+
+<path d="M760 -70 C840 45 890 116 1030 178 C1110 213 1165 224 1245 222 L1245 390 C1118 366 1010 320 912 265 C812 208 755 116 760 -70Z"
+      fill="url(#glassA)" stroke="url(#edgeA)" stroke-width="1.5"/>
+
+<path d="M600 205 C720 155 825 157 925 202 C1020 244 1108 247 1240 201"
+      fill="none" stroke="#8fa8ff" stroke-opacity=".28" stroke-width="26" filter="url(#blur)"/>
+
+<path d="M560 228 C704 158 820 160 925 207 C1032 255 1112 250 1240 198"
+      fill="none" stroke="url(#edgeA)" stroke-width="2"/>
+
+<path d="M910 470 C1002 358 1035 274 1005 178 C979 96 925 46 864 -18 L1110 -18 C1172 82 1197 188 1165 291 C1144 360 1112 418 1074 470Z"
+      fill="url(#glassB)" stroke="#b9c8ff" stroke-opacity=".24" stroke-width="1.2"/>
+
+<path d="M910 470 C1002 358 1035 274 1005 178 C979 96 925 46 864 -18"
+      fill="none" stroke="#d7e0ff" stroke-opacity=".55" stroke-width="1.5" filter="url(#soft)"/>
+
+<circle cx="1020" cy="120" r="2.5" fill="#dbe5ff" opacity=".7"/>
+<circle cx="1085" cy="272" r="1.8" fill="#b8c8ff" opacity=".5"/>
+
+<text x="72" y="112" fill="#f5f7fb" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">VEGAVORTEX DIGITAL</text>
+<text x="72" y="190" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="600" letter-spacing="-1.5">Digital, thoughtfully built.</text>
+<text x="72" y="232" fill="#a7adb9" font-family="Arial,Helvetica,sans-serif" font-size="19">Web · Design · Growth · Technology</text>
+<rect x="72" y="285" width="54" height="2" rx="1" fill="#ffffff" opacity=".8"/>
+<text x="72" y="328" fill="#7f8795" font-family="Arial,Helvetica,sans-serif" font-size="15">Strategy, design and technology for modern digital experiences.</text>
 </svg>
