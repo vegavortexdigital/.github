@@ -6,7 +6,7 @@
 
 <br>
 
-VegaVortex Digital is a web agency working with clients internationally. We build fast, custom websites and web applications, and make sure the right people can find them.
+VegaVortex Digital is a creative agency working with clients internationally. We build fast, custom websites and web applications, and make sure the right people can find them.
 
 ### What we do
 
