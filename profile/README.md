@@ -1,52 +1,35 @@
 <div align="center">
 
-<img src="./hero.svg" alt="VegaVortex Digital" width="100%">
+<img src="./hero.svg" alt="VegaVortex Digital — custom web development, SEO, and online visibility" width="100%">
 
 </div>
 
-## VegaVortex Digital
+<br>
 
-We create digital products and experiences for businesses that value clarity, quality, and thoughtful execution.
+VegaVortex Digital is a web agency working with clients internationally. We build fast, custom websites and web applications — and make sure the right people can find them.
 
-Our work brings together **strategy, design, technology, and digital growth** in one place.
+### What we do
 
----
+| Service | What it covers |
+|---|---|
+| **Web development** | Custom websites, CMS platforms, and full-stack applications, built to be fast and easy to maintain. |
+| **SEO** | Technical audits, site structure, on-page optimization, and Search Console monitoring. |
+| **Online visibility** | Google Ads, analytics, and ongoing management of your presence in search. |
+| **Design** | Clean, responsive interfaces, with motion where it adds something. |
 
-### Capabilities
+### How we work
 
-**Web**  
-Websites, custom platforms, CMS solutions, and full-stack applications.
+- **One team, start to finish.** Strategy, design, development, and search are handled together, so nothing gets lost between handoffs.
+- **Scoped to what you need.** A focused project, or ongoing care for your site and search presence.
+- **Built to last.** Proven tools and clean code, so your site stays easy to update after launch.
 
-**Design**  
-Clean interfaces, responsive experiences, interaction, and motion.
+### Stack
 
-**Growth**  
-Technical SEO, search visibility, digital advertising, analytics, and optimization.
+**Build** — JavaScript · React · Next.js · Node.js · WordPress  
+**Data & infrastructure** — MySQL · MongoDB · Docker · Azure · Cloudflare  
+**Growth** — Technical SEO · Google Ads · Google Analytics · Search Console  
+**Design** — Figma · GSAP
 
-**Technology**  
-APIs, integrations, automation, and the infrastructure behind modern digital products.
+### Work with us
 
----
-
-### Selected Work
-
-Our projects span business websites, custom CMS platforms, full-stack applications, digital presence management, SEO, advertising, and tailored technical solutions.
-
-We work across both **long-term digital operations** and **focused project engagements**, adapting the scope to what each business actually needs.
-
----
-
-### Technology
-
-JavaScript · React · Next.js · Node.js · HTML · CSS  
-WordPress · MySQL · MongoDB · Docker · Azure · Cloudflare  
-Technical SEO · Google Ads · Analytics · Search Console  
-Figma · GSAP
-
----
-
-<div align="center">
-
-**Thoughtful strategy. Clean design. Solid technology.**
-
-</div>
+[vegavortex.com](https://vegavortex.com) · [info@vegavortex.com](mailto:info@vegavortex.com) · [LinkedIn](https://www.linkedin.com/company/vegavortexdigital)
