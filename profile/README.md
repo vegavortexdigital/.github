@@ -17,11 +17,11 @@ VegaVortex Digital is a creative digital agency working with clients internation
 | **Software** | Custom tools, integrations, and automation, with AI where it genuinely helps. |
 | **Search & growth** | Technical SEO, Google Ads, and analytics, so the right people find what we build. |
 
-### How we work
+<div align="center">
 
-- **One team, start to finish.** Design, development, and growth are handled together, so nothing gets lost between handoffs.
-- **Scoped to what you need.** A focused project, or ongoing care for your site and online presence.
-- **Built to last.** Proven tools and clean code, so what we build stays easy to update after launch.
+<img src="./process.svg" alt="How we work: design, build, launch" width="100%">
+
+</div>
 
 ### Work with us
 
