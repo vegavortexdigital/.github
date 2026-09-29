@@ -46,5 +46,7 @@ Figma · GSAP
 ---
 
 <div align="center">
+
 **Thoughtful strategy. Clean design. Solid technology.**
+
 </div>
